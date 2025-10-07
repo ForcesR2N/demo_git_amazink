@@ -1,3 +1,13 @@
+Rizal - rizzthezal_branch
+1. create repo then invited teams
+2. clone in vscode
+3. create new branch using git checkout -b <branch_name>
+4. makes changes
+5. git add .
+6. git commit -m "anggap ini message"
+7. git push origin <branch_name>
+8. done bang
+
 kaisar - kaisar/dev
 1. pertama setelah aku accept invitation aku melakukan git clone dari link repo ini
 2. lalu aku melakukan git checkout ke branch dev
