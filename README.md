@@ -18,3 +18,12 @@ kaisar - kaisar/dev
 7. dan ku commit -m "" untuk menambahkan message
 8. lalu ku push ke branch ku
 9. membuat pull request
+
+Aurell -aurell/adding-readme
+1. clone the repo
+2. checkout to a new branch (mine) 
+3. make my readme file and fill it
+4. git add.
+5. git commit -m  ""
+6. git push origin aurell/adding-readme
+7. back to github and create pull req and merge.
